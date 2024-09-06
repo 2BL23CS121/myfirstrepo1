@@ -1,2 +1,6 @@
 welcome to git lab
+<<<<<<< HEAD
 git status on master branch
+=======
+hello world feature branch
+>>>>>>> feature
