@@ -3,4 +3,27 @@ welcome to git lab
 git status on master branch
 =======
 hello world feature branch
+<<<<<<< Updated upstream
 >>>>>>> feature
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> feature
+hello there, teh current working directory is messed up
+
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+fgdyjj
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> feature
+>>>>>>> master
+>>>>>>> Stashed changes
